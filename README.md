@@ -10,6 +10,6 @@
 		<img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 	</a>
 	<a href="telegram-url">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white](https://cdn.icon-icons.com/icons2/3685/PNG/512/telegram_logo_icon_229299.png" alt="Telegram"/>
 	</a>
 </div>
