@@ -15,3 +15,7 @@
 - 🌱 I’m currently learning **Java**
 - 📫 Reach me by [email](mailto:vladorlov064@gmail.com)
 - 🌍 I speak English
+
+### Languages and tools
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" title="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" title="python" width="40" height="40"/>&nbsp;
