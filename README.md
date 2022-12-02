@@ -12,7 +12,5 @@
 </div>
 ### About me
 - 🌱 I’m currently learning **Java**
- [comment]: <> (- 📝 I regularly write articles on [Medium](medium-link))
-[comment]: <> (- 📄 Know about my experiences [CV](cv-link))
 - 📫 Reach me by [email](mailto:vladorlov064@gmail.com)
 - 🌍 I speak English
