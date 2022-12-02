@@ -10,6 +10,7 @@
 		<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" width="48" height="48" alt="Telegram"/>
 	</a>
 </div>
+
 ### About me
 - 🌱 I’m currently learning **Java**
 - 📫 Reach me by [email](mailto:vladorlov064@gmail.com)
