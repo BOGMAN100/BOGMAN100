@@ -10,6 +10,6 @@
 		<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/discord_macos_bigsur_icon_190238.png" alt="Discord"/>
 	</a>
 	<a href="telegram-url">
-		<img src"https://cdn.icon-icons.com/icons2/3685/PNG/512/telegram_logo_icon_229299.png" alt="Telegram"/>
+		<img src"https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" alt="Telegram"/>
 	</a>
 </div>
